@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name Bura3 how many Resources - Wint
+// @name Bura3 Change your name's color to red - Wint
 // @namespace http://wint.x0.com/
 // @description あなたの名前を赤にします。
 // @include http://*.3gokushi.jp/*
