@@ -7,6 +7,7 @@
 // ==/UserScript==
 
 (function() {
+	//ユーザー番号はユーザーページのURLに含まれています。
 	var your_id = ""; //あなたのブラウザ三国志のユーザー番号を入力してください。
 	var name = document.getElementsByTagName("a");
 	console.log(name.length);
